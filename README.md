@@ -1,5 +1,4 @@
  # CSS-Portrait-Texture
+ <h1 align="center">OUTPUT</h1>
 
-                         OUTPUT
-                         
-         <img src="texture.jpg" alt="">                    
+ <img src="texture.jpg" width="600" alt="">                    
